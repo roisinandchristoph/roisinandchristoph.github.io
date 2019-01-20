@@ -1,6 +1,6 @@
 body {
   color: #444;
-  font-family: Arial, Verdana, sans-serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.05rem;
   line-height: 26px;
 }
@@ -21,7 +21,7 @@ a:hover {
 
 .content {
   margin: 20px auto;
-  max-width: 800px;
+  max-width: 500px;
 }
 
 .logo {
