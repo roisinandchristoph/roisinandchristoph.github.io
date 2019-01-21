@@ -1,8 +1,9 @@
 body {
-  color: #444;
+  color: #444444;
+  background-color:#fefefe;
   font-family: 'EB Garamond', serif;
-  font-size: 1.05rem;
-  line-height: 26px;
+  font-size: 1.25rem;
+  line-height: 36px;
 }
 
 h2 {
@@ -21,9 +22,18 @@ a:hover {
 
 .content {
   margin: 20px auto;
-  max-width: 500px;
+  max-width: 600px;
 }
 
 .logo {
   margin: 20px auto;
+}
+h1.big {
+  line-height: 1.2;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
