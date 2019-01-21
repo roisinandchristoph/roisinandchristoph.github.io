@@ -18,7 +18,9 @@ function rphostc() {
   var c = "@";
   var d = "gmail";
   var e = ".com";
-  e_string = "<a href=\"ma" + "ilto:" + a + b + c + d + e + "\">Christoph</a>";
+  var f = "Chri";
+  var g = "stoph";
+  e_string = "<a href=\"ma" + "ilto:" + a + b + c + d + e + "\">" + f + g + "</a>";
   document.write(e_string);
 }
 function rphostr() {
@@ -27,6 +29,8 @@ function rphostr() {
   var c = "ireland@";
   var d = "gmail";
   var e = ".com";
-  e_string = "<a href=\"ma" + "ilto:" + a + b + c + d + e + "\">Róisín</a>";
+  var f = "Rói";
+  var g = "sín";
+  e_string = "<a href=\"ma" + "ilto:" + a + b + c + d + e + "\">" + f + g + "</a>";
   document.write(e_string);
 }
